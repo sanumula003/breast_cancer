@@ -1,6 +1,9 @@
 # breast_cancer
 Cancer Diagnosis Prediction
+
 Overview
+
+
 This project aims to predict cancer diagnosis (Malignant or Benign) based on various features extracted from diagnostic images. The dataset used in this project contains information about the radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension of cell nuclei present in the images.
 
 Dataset
