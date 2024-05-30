@@ -24,10 +24,21 @@ Evaluation
 Each model was trained on the training set and evaluated on the testing set.
 Performance metrics such as accuracy, precision, recall, and F1-score were computed.
 Confusion matrices were generated to visualize the model's performance.
-Results
+
+
+Results:
+
+
 Logistic Regression achieved a testing accuracy of 94.41%.
+
+
 Decision Tree achieved a testing accuracy of 95.10%.
+
+
 Random Forest achieved a testing accuracy of 96.50%.
+
+
+
 Run the Jupyter Notebook Cancer_Diagnosis_Prediction.ipynb to train the models and evaluate their performance.
 
 
